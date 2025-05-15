@@ -139,6 +139,8 @@ where director is null;
 
 - **Content Distribution:** The dataset contains a diverse range of movies and TV shows with varying ratings and genres.
 - **Geographical Insights:** The top countries and the average content releases by India highlight regional content distribution.
+- **Year-Based Release Insights:** Filtering movies by release year (e.g., 2020) allows Netflix to track annual production trends.
+- **Long-Running TV Series on Netflix:** These long-running shows indicate sustained viewer interest and high production value.
 
 This analysis provides a comprehensive view of Netflix's content and can help inform content strategy and decision-making.
 
